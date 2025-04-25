@@ -1,0 +1,12 @@
+body{
+    font-family: Arial;
+}
+form{
+    width: 20%;
+    display: flex;
+    flex-direction: column;
+}
+.radios{
+    display: flex;
+    flex-direction: column;
+}
